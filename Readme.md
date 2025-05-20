@@ -1,9 +1,5 @@
-<style>
-.readme{
-font-weight:bold;
-}
-</style>
-<div class="readme">
-<h2>Android Chat Platform</h2>
-
-</div>
+## Project title and description
+## installation guidelines
+## usage
+## Features
+## Technologies used
